@@ -1,7 +1,9 @@
 # Persian Characters and Digits
-**Persian  Characters Dataset: Includes آ - ی, and 0-9**
+**Persian Characters Dataset: Includes آ - ی, and 0-9**
 
-Persian English Characters and Digits
+<img width="300px" src="./Demo.jpg" alt="Demo">
+
+Persian Characters and Digits
 ## About Dataset
 Dataset Title: Persian written Characters and Digits Dataset
 
