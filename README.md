@@ -8,7 +8,7 @@ Persian Characters and Digits
 Dataset Title: Persian written Characters and Digits Dataset
 
 ## Overview
-This dataset contains a diverse collection of Persian characters and digits, including uppercase letters (آ - ی), lowercase letters (ا - ی), and numerical digits (0-9). It is designed to support research and development in the field of optical character recognition (OCR), writing recognition, and machine learning.
+This dataset contains a diverse collection of Persian characters and digits, including uppercase letters (آ - ی), lowercase letters (ا - ی), and numerical digits (0-9). It is designed to support research and development in the field of optical character recognition (OCR), writing recognition, and machine learning. It is contain 38380 Images by 128x128 picxel.
 
 
 ## Content
@@ -21,6 +21,8 @@ The folders are numbered from 1 to 101, the first 91 folders are for Persian let
 
 
 ## `File Format: PNG`
+Number of Images: 38380 Images
+
 Image Size: 128x128 pixels
 
 File Size: Each image is less than 4 KB.
